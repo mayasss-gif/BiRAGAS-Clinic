@@ -1,0 +1,568 @@
+{
+  "title": "BiRAGAS Clinic \u00b7 The Annual Subscription for Diabetic Nephropathy",
+  "subtitle": "USD 90,000 per year \u2014 the first causal infrastructure for kidney care.",
+  "edition": "MMXXVI \u00b7 CH I\u2013VIII",
+  "byline": "Ayass BioScience \u00b7 Frisco, Texas",
+  "slides": [
+    {
+      "n": 1,
+      "chapter": "FRONT",
+      "stamp": "BIRAGAS CLINIC \u00b7 MMXXVI",
+      "kind": "cover",
+      "title": "BiRAGAS Clinic",
+      "subtitle": "An annual subscription for diabetic nephropathy and pre-diabetes monitoring.",
+      "tag": "Right target. Right patient. Right analysis. Right kidney.",
+      "narration": "BiRAGAS Clinic. An annual subscription service for diabetic nephropathy and pre-diabetes monitoring \u2014 built on causal molecular evidence, not on population averages."
+    },
+    {
+      "n": 2,
+      "chapter": "FRONT",
+      "stamp": "MANIFESTO",
+      "kind": "manifesto",
+      "title": "Modern kidney care has been failing in three places.",
+      "body": "Wrong target. Wrong patient. Wrong analysis. Every year, billions of dollars are spent on dialysis that better evidence could have delayed or prevented. BiRAGAS Clinic exists to fix all three.",
+      "narration": "Modern kidney care has been failing in three places. Wrong target \u2014 drugs chosen for the average patient. Wrong patient \u2014 risk-stratified by population averages. Wrong analysis \u2014 outdated statistics that miss the mechanism. BiRAGAS Clinic was built to close all three."
+    },
+    {
+      "n": 3,
+      "chapter": "FRONT",
+      "stamp": "EXECUTIVE SUMMARY",
+      "kind": "summary",
+      "title": "Twenty-eight modules. One subscription. Ninety thousand dollars a year.",
+      "body": "Paired plasma and urine transcriptomes. Non-coding RNA. HbA1c and cytokines. All interpreted through the BiRAGAS causal engine \u2014 and priced at exactly one year of dialysis.",
+      "narration": "The clinic in one sentence. Twenty-eight BiRAGAS modules, one annual subscription, ninety thousand dollars a year \u2014 paired plasma and urine transcriptomes, non-coding RNA, HbA1c, and cytokines, interpreted through the BiRAGAS causal engine. Priced at exactly one year of dialysis."
+    },
+    {
+      "n": 4,
+      "chapter": "FRONT",
+      "stamp": "WHY 45",
+      "kind": "summary",
+      "title": "Why forty-five is the inflection age.",
+      "body": "Pre-diabetes crosses 45% prevalence between ages 45 and 64. Insulin resistance crystallises. Podocyte stress begins. Urinary KIM-1 transcripts climb \u2014 years before serum creatinine moves. This is the molecular window we target.",
+      "narration": "Why forty-five is the inflection age. Pre-diabetes prevalence crosses forty-five percent between ages forty-five and sixty-four. Insulin resistance crystallises. Podocyte stress begins. Urinary KIM-1 transcripts climb one to three years before serum creatinine ever moves. This is the molecular window the BiRAGAS Clinic was built to find."
+    },
+    {
+      "n": 5,
+      "chapter": "FRONT",
+      "stamp": "THE FRAMEWORK",
+      "kind": "framework",
+      "title": "The Three Wrongs in Nephrology.",
+      "wrongs": [
+        {
+          "n": "I",
+          "label": "WRONG TARGET",
+          "desc": "Drugs chosen for the average kidney \u2014 not yours. Six distinct DN compartments treated as one."
+        },
+        {
+          "n": "II",
+          "label": "WRONG PATIENT",
+          "desc": "Risk is averaged across heterogeneous cohorts. Responders never identified before they are needed."
+        },
+        {
+          "n": "III",
+          "label": "WRONG ANALYSIS",
+          "desc": "p-values on creatinine and ACR alone. The molecular mechanism is invisible to the EMR."
+        }
+      ],
+      "narration": "The three wrongs in nephrology. Wrong target \u2014 drugs chosen for the average kidney, not yours. Wrong patient \u2014 risk averaged across heterogeneous cohorts. Wrong analysis \u2014 p-values on creatinine alone, with the molecular mechanism invisible to the medical record. BiRAGAS Clinic replaces all three with causation."
+    },
+    {
+      "n": 6,
+      "chapter": "FRONT",
+      "stamp": "THESIS",
+      "kind": "thesis",
+      "title": "The first infrastructure that gets all three right.",
+      "body": "Not another diagnostic. Not another concierge clinic. A complete causal platform \u2014 auditable, FDA-aligned, delivered at the bedside through a single annual fee.",
+      "narration": "BiRAGAS Clinic is the first infrastructure that gets all three rights right. Not another diagnostic. Not another concierge clinic. A complete causal platform \u2014 auditable, FDA-aligned, and delivered to the patient through a single annual fee."
+    },
+    {
+      "n": 7,
+      "chapter": "CH I",
+      "stamp": "CHAPTER 01",
+      "kind": "chapter",
+      "title": "Chapter One",
+      "subtitle": "The population we serve \u2014 every adult forty-five and over.",
+      "narration": "Chapter One. The population we serve \u2014 every adult forty-five and over."
+    },
+    {
+      "n": 8,
+      "chapter": "CH I",
+      "stamp": "DIABETES POST-45",
+      "kind": "diagnosis",
+      "title": "Diabetes after forty-five is no longer the exception.",
+      "body": "By age 45\u201364, 17\u201320% of US adults have diagnosed diabetes. By age 65\u201374, 25%. By age 75 and older, 29% or more. Pre-diabetes adds another 45\u201355% on top of that.",
+      "narration": "Diabetes after forty-five is no longer the exception. Between forty-five and sixty-four, seventeen to twenty percent of US adults have diagnosed diabetes. Between sixty-five and seventy-four, twenty-five percent. After seventy-five, twenty-nine percent or more. Pre-diabetes adds another forty-five to fifty-five percent on top of that. This is the cohort the clinic was built for."
+    },
+    {
+      "n": 9,
+      "chapter": "CH I",
+      "stamp": "PRE-DIABETES",
+      "kind": "problem",
+      "title": "Pre-diabetes is the largest preventable cohort in US adult medicine.",
+      "body": "Ninety-six million US adults have pre-diabetes. Forty-five percent of those are in the 45\u201364 age band. Almost none are receiving mechanism-anchored care. We enrol them in our Pre-Diabetic Watch tier.",
+      "narration": "Pre-diabetes is the single largest preventable cohort in US adult medicine. Ninety-six million US adults are pre-diabetic. Forty-five percent of those sit in the forty-five to sixty-four age band. Almost none are receiving mechanism-anchored care. The BiRAGAS Clinic enrols them in our Pre-Diabetic Watch tier."
+    },
+    {
+      "n": 10,
+      "chapter": "CH I",
+      "stamp": "DN IN NUMBERS",
+      "kind": "cost",
+      "title": "808,000 Americans live with end-stage renal disease.",
+      "body": "Diabetes accounts for thirty-five to forty-four percent of all new ESRD cases each year. One in three patients with type-2 diabetes already has CKD. Thirty to forty percent of diabetics develop DN in their lifetime.",
+      "narration": "Eight hundred and eight thousand Americans are currently living with end-stage renal disease. Diabetes accounts for thirty-five to forty-four percent of all new ESRD cases each year. One in three patients with type-two diabetes already has chronic kidney disease. Thirty to forty percent of diabetics develop diabetic nephropathy over their lifetime. We exist to bend that curve."
+    },
+    {
+      "n": 11,
+      "chapter": "CH I",
+      "stamp": "MORTALITY",
+      "kind": "cost",
+      "title": "Diabetic nephropathy carries a 31% excess mortality.",
+      "body": "Two million deaths per year worldwide are attributable to diabetes-related CKD. Cardiovascular mortality in DN patients is ten to twenty times higher than age-matched controls. The single largest life-extension lever in adult medicine is preventing ESRD.",
+      "narration": "Diabetic nephropathy carries a thirty-one percent excess mortality. Two million deaths a year worldwide are attributable to diabetes-related kidney disease. Cardiovascular mortality in DN patients runs ten to twenty times higher than in age-matched controls. The single largest life-extension lever in adult medicine is preventing ESRD."
+    },
+    {
+      "n": 12,
+      "chapter": "CH II",
+      "stamp": "CHAPTER 02",
+      "kind": "chapter",
+      "title": "Chapter Two",
+      "subtitle": "The economic case for ninety thousand dollars a year.",
+      "narration": "Chapter Two. The economic case for ninety thousand dollars a year."
+    },
+    {
+      "n": 13,
+      "chapter": "CH II",
+      "stamp": "THE COST MAP",
+      "kind": "cost",
+      "title": "The US healthcare system spends $77 billion a year on CKD.",
+      "body": "Medicare alone: $77B for CKD in patients aged \u226566 \u2014 24.1% of Medicare spending in that age band. Per-patient ESRD cost: $90,000 to $110,000 per year. The dialysis market exceeds $25 billion.",
+      "narration": "The US healthcare system spends seventy-seven billion dollars a year on chronic kidney disease in Medicare beneficiaries aged sixty-six and over \u2014 twenty-four percent of Medicare spending in that age band. Per-patient ESRD cost is ninety to one hundred and ten thousand dollars a year. The US dialysis market alone exceeds twenty-five billion dollars."
+    },
+    {
+      "n": 14,
+      "chapter": "CH II",
+      "stamp": "THE 90K IDENTITY",
+      "kind": "correction",
+      "title": "Ninety thousand dollars buys one year of dialysis.",
+      "body": "Or one year of the BiRAGAS Clinic. Anchoring the subscription to the cost of one year on dialysis means: a single avoided year repays the subscription in full. Every subsequent year of preserved kidney function is surplus.",
+      "narration": "Ninety thousand dollars buys one year of dialysis. Or one year of the BiRAGAS Clinic. The subscription is deliberately anchored to that number. A single avoided year of dialysis pays back the subscription in full. Every additional year of preserved kidney function is surplus."
+    },
+    {
+      "n": 15,
+      "chapter": "CH II",
+      "stamp": "PAYER + SELF-PAY",
+      "kind": "correction",
+      "title": "Three doors. One platform.",
+      "body": "Self-pay: high-net-worth families with first-degree dialysis history. Employer-sponsored: executive-health programs for high-risk leadership cohorts. Payer pilot: Medicare-Advantage cohorts with eGFR 30\u201360 and active proteinuria.",
+      "narration": "Three doors lead into the BiRAGAS Clinic. Door one: self-pay \u2014 high-net-worth families with first-degree relatives on dialysis. Door two: employer-sponsored executive health \u2014 paying for high-risk leadership cohorts. Door three: payer pilots in Medicare Advantage cohorts with early-to-moderate kidney impairment where the avoided-dialysis economics are strongest."
+    },
+    {
+      "n": 16,
+      "chapter": "CH II",
+      "stamp": "ROI MATH",
+      "kind": "consequence",
+      "title": "Ten years of clinic. Ten years of delayed ESRD. One hundred thousand dollars net positive.",
+      "body": "Even in the most conservative case \u2014 where clinic membership delays ESRD by half a year \u2014 the system is approximately net-neutral. Add an avoided cardiovascular event, and the case becomes overwhelmingly positive.",
+      "narration": "The math is straightforward. Ten years of clinic membership at ninety thousand a year costs nine hundred thousand dollars. Ten years of avoided dialysis saves one million. Net positive: one hundred thousand. Add a single avoided cardiovascular event over that decade \u2014 typically one and a half million dollars \u2014 and the case becomes overwhelmingly positive."
+    },
+    {
+      "n": 17,
+      "chapter": "CH III",
+      "stamp": "CHAPTER 03",
+      "kind": "chapter",
+      "title": "Chapter Three",
+      "subtitle": "The Three Wrongs \u2014 and how the clinic corrects them.",
+      "narration": "Chapter Three. The Three Wrongs \u2014 and how the clinic corrects them."
+    },
+    {
+      "n": 18,
+      "chapter": "CH III",
+      "stamp": "WRONG TARGET",
+      "kind": "diagnosis",
+      "title": "DN is six anatomically distinct diseases treated as one.",
+      "body": "Podocyte injury, endothelial dysfunction, mesangial expansion, proximal tubular metabolic overload, distal tubular dysregulation, interstitial inflammation. We stratify the patient into the right compartment from day one.",
+      "narration": "Diabetic nephropathy is not a single disease. It is six anatomically distinct compartment injuries \u2014 podocyte, endothelial, mesangial, proximal tubular, distal tubular, and interstitial \u2014 that the rest of the field treats as one. The BiRAGAS Clinic stratifies every patient into their dominant compartment from day one."
+    },
+    {
+      "n": 19,
+      "chapter": "CH III",
+      "stamp": "WRONG PATIENT",
+      "kind": "problem",
+      "title": "Standard labs miss kidney injury by one to three years.",
+      "body": "By the time eGFR and ACR shift, the molecular damage is years old. Our urinary cell-free transcriptome detects KIM-1 elevation and nephrin loss long before standard chemistry can.",
+      "narration": "Standard kidney labs miss the start of injury by one to three years. By the time the eGFR drops or the albumin-to-creatinine ratio climbs, the molecular damage is years old. Our urinary cell-free transcriptome catches KIM-1 elevation and nephrin loss long before standard chemistry can."
+    },
+    {
+      "n": 20,
+      "chapter": "CH III",
+      "stamp": "WRONG ANALYSIS",
+      "kind": "correction",
+      "title": "Every output ships with a Causal Confidence Score.",
+      "body": "Tier 1 Driver. Tier 2 Strong Candidate. Tier 3 Candidate. Not a p-value. A defensible mechanistic verdict \u2014 auditable, source-linked, FDA-aligned.",
+      "narration": "Every BiRAGAS output ships with a Causal Confidence Score \u2014 three tiers. Tier one driver. Tier two strong candidate. Tier three candidate. Not a p-value. A defensible mechanistic verdict, auditable, source-linked, FDA-aligned."
+    },
+    {
+      "n": 21,
+      "chapter": "CH IV",
+      "stamp": "CHAPTER 04",
+      "kind": "chapter",
+      "title": "Chapter Four",
+      "subtitle": "Our testing \u2014 the panel that defines the clinic.",
+      "narration": "Chapter Four. Our testing \u2014 the panel that defines the clinic."
+    },
+    {
+      "n": 22,
+      "chapter": "CH IV",
+      "stamp": "PLASMA TX",
+      "kind": "module",
+      "title": "Plasma Transcriptome.",
+      "body": "Ten millilitres of EDTA blood. Whole-blood RNA sequencing \u2014 polyA plus ribosomal-depleted libraries. Twenty thousand genes, splicing, novel transcripts. Run at baseline and at the annual deep workup.",
+      "narration": "Plasma transcriptome. Ten millilitres of EDTA blood. Whole-blood RNA sequencing using polyA and ribosomal-depleted libraries. Twenty thousand genes, splicing events, novel transcripts. Run at baseline and at the annual deep workup. Quarterly visits use a focused subset of one hundred twenty genes."
+    },
+    {
+      "n": 23,
+      "chapter": "CH IV",
+      "stamp": "URINE TX",
+      "kind": "module",
+      "title": "Urine Transcriptome.",
+      "body": "Fifty millilitres of midstream urine. Cell-free RNA-seq captures tubular and glomerular signal \u2014 KIM-1, nephrin, podocin, MCP-1, CTGF. The single most patient-specific window into the kidney short of biopsy.",
+      "narration": "Urine transcriptome. Fifty millilitres of midstream urine. Cell-free RNA sequencing captures tubular and glomerular signal \u2014 KIM-1, nephrin, podocin, MCP-1, CTGF. This is the single most patient-specific window into the kidney short of a biopsy."
+    },
+    {
+      "n": 24,
+      "chapter": "CH IV",
+      "stamp": "ncRNA",
+      "kind": "module",
+      "title": "Non-coding RNA Panel.",
+      "body": "miR-21, miR-192, miR-29 family, miR-126, miR-155. MALAT1, NEAT1, MIAT. circANKRD36. Non-coding RNA shifts earlier than any other class \u2014 the earliest signal of kidney trouble.",
+      "narration": "Non-coding RNA panel. Small RNA sequencing plus long non-coding RNA capture. miR-twenty-one. miR-one-ninety-two. miR-twenty-nine family. miR-one-twenty-six. miR-one-fifty-five. MALAT1. NEAT1. MIAT. circANKRD36. Non-coding RNAs shift earlier than any other class of molecule \u2014 the earliest reliable signal of kidney trouble."
+    },
+    {
+      "n": 25,
+      "chapter": "CH IV",
+      "stamp": "METABOLIC + IMMUNE",
+      "kind": "module",
+      "title": "HbA1c and Cytokines.",
+      "body": "Quarterly HbA1c for ninety-day glycemic averages. Plasma and urine Luminex 27-plex cytokine panels at baseline and annually, eight-plex subset every quarter. Inflammation read at multiple resolutions.",
+      "narration": "HbA1c and cytokines. Quarterly HbA1c gives the ninety-day glycemic average. Plasma and urine Luminex twenty-seven-plex cytokine panels are run at baseline and annually. An eight-plex subset \u2014 IL-six, TNF-alpha, MCP-one, hs-CRP, IL-ten, VEGF, IP-ten, IFN-gamma \u2014 runs every quarter. Inflammation read at multiple resolutions."
+    },
+    {
+      "n": 26,
+      "chapter": "CH IV",
+      "stamp": "REFERENCE GENES",
+      "kind": "module",
+      "title": "Fifteen housekeeping genes locked from QC.",
+      "body": "TCEB1, ITCH, YIPF3, JTB, STK24, IST1, DCTN3, UBE2J2, CRTC2, ELOVL1, GAK, CLPTM1, ACTR1A, CAPZB, RAB5C \u2014 selected from 3,025 candidates. All CV < 17%. All batch-stable. All 100% detection.",
+      "narration": "Every transcriptome assay is anchored to fifteen reference housekeeping genes \u2014 TCEB1, ITCH, YIPF3, JTB, STK24, IST1, and nine others. Selected from over three thousand candidates by the BiRAGAS QC engine. All coefficient of variation under seventeen percent. All batch-stable. All one hundred percent detection. The clinic's assays do not drift."
+    },
+    {
+      "n": 27,
+      "chapter": "CH IV",
+      "stamp": "MODULES",
+      "kind": "module",
+      "title": "Twenty-eight BiRAGAS modules. One unified report.",
+      "body": "FASTQ Pipeline. DEG Analysis. Single-Cell. Causal Calculus. DAG Builder. Mendelian Randomization. Centrality. In-Silico Perturbation. Temporal Granger. Causion orchestrates them all.",
+      "narration": "Twenty-eight BiRAGAS production modules sit behind every patient report. FASTQ Pipeline. Differential expression. Single-cell analysis. Causal calculus. DAG construction. Mendelian randomization. Centrality. In-silico perturbation. Temporal Granger causality. And many more \u2014 all orchestrated by Causion, our natural-language agent, into one unified report."
+    },
+    {
+      "n": 28,
+      "chapter": "CH IV",
+      "stamp": "BIOMARKER PANEL",
+      "kind": "module",
+      "title": "The DN biomarker panel \u2014 anchored to our own cohort.",
+      "body": "Ninety-nine DN-significant DEGs from the Ayass Bioscience cohort. KIM-1 up fourteen-fold. SPP1 up five-fold. IL-6 up five-fold. CTGF up four-point-seven-fold. Nephrin down four-fold. Podocin down three-point-four-fold.",
+      "narration": "The DN biomarker panel is anchored to our own internal cohort \u2014 ninety-nine statistically significant differentially expressed genes. KIM-1 is up fourteen-fold. Osteopontin up five-fold. Interleukin-six up five-fold. CTGF up four-point-seven-fold. Nephrin is down four-fold. Podocin down three-point-four-fold. This is not borrowed biology \u2014 this is what our cohort showed us."
+    },
+    {
+      "n": 29,
+      "chapter": "CH V",
+      "stamp": "CHAPTER 05",
+      "kind": "chapter",
+      "title": "Chapter Five",
+      "subtitle": "The clinical protocol \u2014 from enrolment to follow-up.",
+      "narration": "Chapter Five. The clinical protocol \u2014 from enrolment to follow-up."
+    },
+    {
+      "n": 30,
+      "chapter": "CH V",
+      "stamp": "VISIT 01 \u00b7 DAY 0",
+      "kind": "module",
+      "title": "Visit One \u2014 Enrolment.",
+      "body": "Ninety minutes. Full history, anthropometrics, blood pressure. Phlebotomy and urine collection. Plasma transcriptome, urine transcriptome, ncRNA, cytokines, HbA1c, standard renal labs. Buccal swab for GWAS-anchored risk. Causion portal onboarding.",
+      "narration": "Visit one. Day zero. Ninety minutes. Full history, anthropometrics, blood pressure. Phlebotomy and urine collection. Plasma transcriptome, urine transcriptome, non-coding RNA panel, cytokines, HbA1c, and standard renal labs. A buccal swab for genome-wide-association anchored risk. Onboarding to the Causion patient portal. We take everything we need in one sitting."
+    },
+    {
+      "n": 31,
+      "chapter": "CH V",
+      "stamp": "VISIT 02 \u00b7 DAY 21-30",
+      "kind": "module",
+      "title": "Visit Two \u2014 Your BiRAGAS Dossier.",
+      "body": "A personalised thirty-five to fifty-five page report. Compartment map. Causal driver list. Non-coding RNA fingerprint. Personalised intervention plan. Physician-to-physician handoff letter signed by Dr. Ayass.",
+      "narration": "Visit two. Twenty-one to thirty days later. The patient receives their first BiRAGAS dossier \u2014 a personalised thirty-five to fifty-five page report. The compartment map: which of the six DN compartments dominates their picture. The causal driver list: the top ranked genes with mechanism and druggability. The non-coding RNA fingerprint. A personalised intervention plan. And a physician-to-physician handoff letter, signed by Dr. Ayass."
+    },
+    {
+      "n": 32,
+      "chapter": "CH V",
+      "stamp": "QUARTERLY",
+      "kind": "module",
+      "title": "Quarterly Monitoring.",
+      "body": "Months three, six, and nine. Forty-five minutes each. Vitals, focused exam, targeted RNA panel, urine cell-free RNA panel, miRNA, eight-plex cytokines, renal labs. Delta report against baseline and prior visits.",
+      "narration": "Quarterly monitoring. Months three, six, and nine. Forty-five minutes each. Vitals, focused exam, a targeted plasma RNA panel of one hundred twenty genes, urine cell-free RNA panel of forty genes, miRNA quantification, an eight-plex cytokine subset, and renal labs. Each quarter the patient receives a delta report comparing them against baseline and every prior visit."
+    },
+    {
+      "n": 33,
+      "chapter": "CH V",
+      "stamp": "ANNUAL DEEP",
+      "kind": "module",
+      "title": "Annual Deep Workup.",
+      "body": "Month twelve. One hundred and twenty minutes. Full first-round panel repeated. Temporal Granger causality + In-Silico Perturbation run on the patient's longitudinal data. Comprehensive annual report. In-person review with Dr. Ayass.",
+      "narration": "Annual deep workup. Month twelve. One hundred and twenty minutes. The full first-round panel is repeated. Temporal Granger causality and patient-level in-silico perturbation are run on the longitudinal dataset. The patient receives a comprehensive annual report and a long in-person review with Dr. Ayass. The next year's plan is set in writing."
+    },
+    {
+      "n": 34,
+      "chapter": "CH V",
+      "stamp": "ESCALATION",
+      "kind": "diagnosis",
+      "title": "Escalation triggers \u2014 bring the patient back in fourteen days.",
+      "body": "Causal Confidence Score crosses Tier 1. Urinary KIM-1 transcript doubles quarter-over-quarter. Plasma IL-6 doubles or hs-CRP > 10 mg/L sustained. ACR crosses 30 or doubles. eGFR decline > 5/yr.",
+      "narration": "Five escalation triggers bring a patient back inside fourteen days. The Causal Confidence Score on any active driver crosses Tier one. Urinary KIM-1 transcript doubles quarter-over-quarter. Plasma interleukin-six doubles or hs-CRP runs above ten over two quarters. Albumin-to-creatinine ratio crosses thirty or doubles. eGFR decline exceeds five per year."
+    },
+    {
+      "n": 35,
+      "chapter": "CH V",
+      "stamp": "RISK TIERS",
+      "kind": "framework",
+      "title": "Five Risk Tiers.",
+      "wrongs": [
+        {
+          "n": "T1",
+          "label": "STABLE",
+          "desc": "UACR < 30, eGFR > 60. Quarterly monitoring as scheduled. No intervention change."
+        },
+        {
+          "n": "T2",
+          "label": "WATCH",
+          "desc": "UACR 30\u2013100 OR eGFR 45\u201360. Compartment review at next quarterly. Targeted intervention with PCP."
+        },
+        {
+          "n": "T3",
+          "label": "DRIFT",
+          "desc": "UACR > 100 OR Tier-1 causal driver detected. Accelerated workup in 30 days. Therapy optimisation."
+        },
+        {
+          "n": "T4",
+          "label": "ESCALATION",
+          "desc": "UACR > 300 OR eGFR < 45. Full repeat workup in 14 days. Nephrology coordination. Compressed reanalysis."
+        },
+        {
+          "n": "T5",
+          "label": "REFER",
+          "desc": "eGFR < 30 sustained. Active nephrology hand-over for renal-replacement planning. Clinic remains supportive."
+        }
+      ],
+      "narration": "Five risk tiers, T-one through T-five. T-one, stable: quarterly monitoring as scheduled, no intervention change. T-two, watch: compartment review at next quarterly. T-three, drift: accelerated workup in thirty days, therapy optimisation. T-four, escalation: full repeat workup in fourteen days with nephrology coordination. T-five, refer: active hand-over for renal-replacement planning, with the clinic remaining supportive."
+    },
+    {
+      "n": 36,
+      "chapter": "CH V",
+      "stamp": "PATIENT JOURNEY",
+      "kind": "module",
+      "title": "The patient's year \u2014 five scheduled visits, continuous coverage.",
+      "body": "Week 0 enrolment. Week 4 dossier review. Weeks 13, 26, 39 quarterly monitoring. Week 52 annual deep workup. Continuous Causion portal access throughout.",
+      "narration": "The patient's year. Week zero, enrolment. Week four, dossier review. Weeks thirteen, twenty-six, and thirty-nine, quarterly monitoring. Week fifty-two, annual deep workup. And continuous Causion portal access throughout \u2014 for the patient and their named physicians."
+    },
+    {
+      "n": 37,
+      "chapter": "CH VI",
+      "stamp": "CHAPTER 06",
+      "kind": "chapter",
+      "title": "Chapter Six",
+      "subtitle": "The subscription \u2014 what's included, what's not.",
+      "narration": "Chapter Six. The subscription \u2014 what's included, what's not."
+    },
+    {
+      "n": 38,
+      "chapter": "CH VI",
+      "stamp": "TIERS",
+      "kind": "rights",
+      "title": "Three subscription tiers.",
+      "rights": [
+        {
+          "n": "I",
+          "label": "CORE \u00b7 $90K",
+          "desc": "T2DM \u2265 45 OR CKD G1\u2013G4 in diabetic context. Five visits. Annual deep workup. Up to two escalations."
+        },
+        {
+          "n": "II",
+          "label": "PRE-DIABETIC WATCH \u00b7 $65K",
+          "desc": "Pre-diabetes \u2265 45 OR FDR with dialysis history. Three visits. Annual repeat."
+        },
+        {
+          "n": "III",
+          "label": "FAMILY HISTORY \u00b7 $65K",
+          "desc": "Asymptomatic first-degree relative of a dialysis patient. Three visits. Annual repeat."
+        }
+      ],
+      "narration": "Three subscription tiers. Core, ninety thousand dollars a year, for patients with type-two diabetes aged forty-five or older, or chronic kidney disease in a diabetic context \u2014 five visits plus an annual deep workup. Pre-Diabetic Watch and Family History tiers at sixty-five thousand a year \u2014 three visits plus an annual repeat. Pharma cohort pricing negotiated per protocol."
+    },
+    {
+      "n": 39,
+      "chapter": "CH VI",
+      "stamp": "INCLUDED",
+      "kind": "correction",
+      "title": "What the annual fee includes.",
+      "body": "Every visit. Every test. Every report. Continuous Causion access. Personal physician letters from Dr. Ayass. Priority phone access to our medical assistant. Up to two escalation visits per year.",
+      "narration": "What the annual fee includes. Every scheduled visit. Every laboratory test in our CLIA-certified facility. Every BiRAGAS analytical report. Continuous Causion portal access for the patient and their physicians. Personal physician-to-physician letters from Dr. Ayass after every visit. Priority phone access to the clinic medical assistant. Up to two escalation visits per year. No per-visit charges. No per-test charges. No surprise bills."
+    },
+    {
+      "n": 40,
+      "chapter": "CH VI",
+      "stamp": "EXCLUDED",
+      "kind": "problem",
+      "title": "What stays with your existing providers.",
+      "body": "Inpatient hospitalisation. Surgical procedures. Imaging beyond clinic protocol. Prescription medication costs. Renal-replacement preparation. Care unrelated to kidney or metabolic health.",
+      "narration": "What stays with the patient's existing providers and insurance. Inpatient hospitalisation. Surgical procedures. Imaging beyond clinic protocol \u2014 MRI, CT, biopsy. Prescription medication costs. Renal-replacement preparation if it becomes needed \u2014 we coordinate with the patient's nephrologist, but those services are billed by them."
+    },
+    {
+      "n": 41,
+      "chapter": "CH VI",
+      "stamp": "ELIGIBILITY",
+      "kind": "summary",
+      "title": "Who qualifies.",
+      "body": "Adults aged \u226545 with T2DM. Adults \u226545 with pre-diabetes. Adults \u226545 with a first-degree relative on dialysis for diabetic kidney disease. Patients with CKD G1\u2013G4 in a diabetic context. G5 patients referred for renal-replacement counselling.",
+      "narration": "Who qualifies for the clinic. Adults aged forty-five and over with type-two diabetes mellitus of any duration. Adults forty-five and over with pre-diabetes \u2014 fasting glucose one hundred to one twenty-five, or HbA1c five-point-seven to six-point-four percent. Adults forty-five and over with a first-degree relative on dialysis for diabetic kidney disease. And patients with established chronic kidney disease stage one through four in a diabetic context."
+    },
+    {
+      "n": 42,
+      "chapter": "CH VII",
+      "stamp": "CHAPTER 07",
+      "kind": "chapter",
+      "title": "Chapter Seven",
+      "subtitle": "Outcomes \u2014 what we underwrite.",
+      "narration": "Chapter Seven. Outcomes \u2014 what we underwrite."
+    },
+    {
+      "n": 43,
+      "chapter": "CH VII",
+      "stamp": "YEAR 1",
+      "kind": "consequence",
+      "title": "Year One targets.",
+      "body": "30% microalbuminuria reversion in eligible patients. eGFR slope halved relative to prior trajectory. 75% of patients with HbA1c on target. KDQOL quality-of-life improved at twelve months in over 70%.",
+      "narration": "Year one targets. Thirty percent of eligible patients regain a urinary albumin-to-creatinine ratio under thirty. eGFR slope is halved relative to the patient's prior trajectory. Seventy-five percent of patients reach HbA1c on target \u2014 at or below seven percent. Kidney-disease quality of life improves at twelve months in more than seventy percent."
+    },
+    {
+      "n": 44,
+      "chapter": "CH VII",
+      "stamp": "YEAR 3",
+      "kind": "consequence",
+      "title": "Year Three targets.",
+      "body": "55% microalbuminuria reversion. eGFR stabilisation in 60% of patients. \u226530% absolute risk reduction in ESRD among G3b\u2013G4 cohort. \u226525% reduction in major adverse cardiovascular events.",
+      "narration": "Year three targets. Fifty-five percent microalbuminuria reversion. eGFR stabilisation in sixty percent of patients. At least thirty percent absolute risk reduction in end-stage renal disease in our stage three-b and stage four cohort. And at least twenty-five percent reduction in major adverse cardiovascular events \u2014 the leading cause of death in this population."
+    },
+    {
+      "n": 45,
+      "chapter": "CH VII",
+      "stamp": "HONEST LIMITS",
+      "kind": "diagnosis",
+      "title": "What we do not claim.",
+      "body": "We do not reverse advanced glomerulosclerosis. We do not replace your nephrologist. CKD G5 patients are referred for renal-replacement counselling.",
+      "narration": "What the clinic does not claim. We do not reverse damage that is already advanced. We do not replace the patient's nephrologist or primary care physician \u2014 we work alongside them. Patients in chronic kidney disease stage five are referred for renal-replacement counselling, not enrolment."
+    },
+    {
+      "n": 46,
+      "chapter": "CH VIII",
+      "stamp": "CHAPTER 08",
+      "kind": "chapter",
+      "title": "Chapter Eight",
+      "subtitle": "Market and defensibility \u2014 why this clinic is hard to copy.",
+      "narration": "Chapter Eight. Market and defensibility \u2014 why this clinic is hard to copy."
+    },
+    {
+      "n": 47,
+      "chapter": "CH VIII",
+      "stamp": "TAM",
+      "kind": "summary",
+      "title": "Eight and a half million US adults in the core cohort.",
+      "body": "T2DM with active CKD G1\u2013G4 \u2265 45 yrs: 8.5 million. T2DM \u2265 45 without diagnosed CKD: 24 million. Pre-diabetes \u2265 45: 65 million. First-degree relatives: 1.6 million. Realistic Year-3 target: 1,000 subscribers.",
+      "narration": "Eight and a half million US adults sit in our core cohort \u2014 type-two diabetics aged forty-five and over with active chronic kidney disease. Add another twenty-four million with undiagnosed kidney involvement. Sixty-five million with pre-diabetes. One-point-six million first-degree relatives of dialysis patients."
+    },
+    {
+      "n": 48,
+      "chapter": "CH VIII",
+      "stamp": "COMPETITION",
+      "kind": "problem",
+      "title": "No competitor offers all four.",
+      "body": "Concierge medicine has no transcriptomics. Specialty nephrology has no molecular stratification. DTC genomics is static, not longitudinal. Academic research clinics do not operate as FDA-aligned subscription services. BiRAGAS Clinic is the only platform that is all four.",
+      "narration": "No competitor offers all four. Concierge medicine has no transcriptomics, no causality. Specialty nephrology has no molecular stratification \u2014 they apply population-average therapy. Direct-to-consumer wellness genomics is static, not longitudinal. Academic nephrology research clinics do not operate as FDA-aligned subscription services. The BiRAGAS Clinic is the only platform that is all four \u2014 and that is deliberate."
+    },
+    {
+      "n": 49,
+      "chapter": "CH VIII",
+      "stamp": "DEFENSIBILITY",
+      "kind": "correction",
+      "title": "Fifteen years. Twenty-three million dollars. Eighteen IP categories.",
+      "body": "8.6-million-vector Bio-RAG database. Twenty-eight production modules. Eighteen-category patent portfolio. CLIA-certified Ayass Bioscience laboratory. Fifteen years of cumulative R&D. $23M founder capital. Not replicable in under five years.",
+      "narration": "What makes the clinic defensible. An eight-point-six-million biological-vector Retrieval-Augmented Generation database \u2014 years of expert curation. Twenty-eight production BiRAGAS modules, covered by an eighteen-category patent portfolio. A CLIA-certified Ayass Bioscience laboratory, vertically integrated, not dependent on CROs. Fifteen years of cumulative research and twenty-three million dollars of founder capital to reach operational status. This is not replicable in under five years."
+    },
+    {
+      "n": 50,
+      "chapter": "CLOSE",
+      "stamp": "THE PROMISE",
+      "kind": "rights",
+      "title": "The Four Rights of the Clinic.",
+      "rights": [
+        {
+          "n": "I",
+          "label": "RIGHT TARGET",
+          "desc": "Compartment-specific. Pearl-grade causal verdict."
+        },
+        {
+          "n": "II",
+          "label": "RIGHT PATIENT",
+          "desc": "Stratified by mechanism, not by averages."
+        },
+        {
+          "n": "III",
+          "label": "RIGHT ANALYSIS",
+          "desc": "Causal Confidence Score. FDA-aligned."
+        }
+      ],
+      "narration": "The clinic's promise. Right target \u2014 validated by Pearl's causal calculus, compartment-specific, mechanism-anchored. Right patient \u2014 stratified by their own molecular biology, not by population averages. Right analysis \u2014 every claim carries a Causal Confidence Score and an audit trail. And right kidney \u2014 yours, monitored in molecular detail every ninety days for the entire duration of your subscription."
+    },
+    {
+      "n": 51,
+      "chapter": "CLOSE",
+      "stamp": "CAUSION",
+      "kind": "agent",
+      "title": "Causion \u2014 your physician's plain-English assistant.",
+      "body": "Twenty-eight modules behind one natural-language interface. Your physician asks in everyday English. Causion answers using your specific test data plus the latest medical literature \u2014 source-linked, audit-grade.",
+      "narration": "Causion. The clinic's natural-language assistant. Twenty-eight BiRAGAS modules sit behind one plain-English interface. Your physician asks a question in everyday language. Causion answers using your specific test data plus the latest medical literature \u2014 every answer source-linked, every reasoning step audit-grade. The complexity stays under the hood. The clarity ships to your doctor."
+    },
+    {
+      "n": 52,
+      "chapter": "CLOSE",
+      "stamp": "THE PIPELINE",
+      "kind": "pipeline",
+      "title": "FASTQ \u2192 FDA-Ready Dossier.",
+      "steps": [
+        "FASTQ",
+        "HARMONIZE",
+        "DEG",
+        "PATHWAY",
+        "CAUSAL MR",
+        "DOSSIER"
+      ],
+      "body": "Six disciplined steps from raw sequencing to an evidence dossier any nephrologist \u2014 and any regulator \u2014 can read.",
+      "narration": "From a raw FASTQ file to an FDA-ready evidence dossier. Six disciplined steps. Source-linked at every claim. Auditable end to end. The pipeline every clinic patient's data travels through, every quarter, every year."
+    },
+    {
+      "n": 53,
+      "chapter": "CLOSE",
+      "stamp": "WELCOME",
+      "kind": "close",
+      "title": "Welcome to the BiRAGAS Clinic.",
+      "subtitle": "Ayass Bioscience \u00b7 Frisco, Texas \u00b7 MMXXVI",
+      "narration": "Welcome to the BiRAGAS Clinic. Ayass Bioscience. Frisco, Texas. Twenty twenty-six."
+    }
+  ]
+}
