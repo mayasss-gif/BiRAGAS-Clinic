@@ -216,8 +216,8 @@
       "stamp": "PLASMA TX",
       "kind": "module",
       "title": "Plasma Transcriptome.",
-      "body": "Ten millilitres of EDTA blood. Whole-blood RNA sequencing \u2014 polyA plus ribosomal-depleted libraries. Twenty thousand genes, splicing, novel transcripts. Run at baseline and at the annual deep workup.",
-      "narration": "Plasma transcriptome. Ten millilitres of EDTA blood. Whole-blood RNA sequencing using polyA and ribosomal-depleted libraries. Twenty thousand genes, splicing events, novel transcripts. Run at baseline and at the annual deep workup. Quarterly visits use a focused subset of one hundred twenty genes."
+      "body": "Ten millilitres of blood. Whole-blood RNA sequencing \u2014 polyA plus ribosomal-depleted libraries. Twenty thousand genes, splicing, novel transcripts. Run at baseline and at the annual deep workup.",
+      "narration": "Plasma transcriptome. Ten millilitres of blood. Whole-blood RNA sequencing using polyA and ribosomal-depleted libraries. Twenty thousand genes, splicing events, novel transcripts. Run at baseline and at the annual deep workup. Quarterly visits use a focused subset of one hundred twenty genes."
     },
     {
       "n": 23,
